@@ -18,7 +18,7 @@ gem 'puma', '~> 3.11'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
-
+gem "rack", ">= 2.0.6"
 gem 'rack-cors', require: 'rack/cors'
 
 # Use Capistrano for deployment
